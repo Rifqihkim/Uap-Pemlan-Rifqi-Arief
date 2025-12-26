@@ -1,46 +1,41 @@
-# Mood Tracker App (Java Swing)
+# Mood Tracker Application (Java Swing)
 
-Mood Tracker App adalah aplikasi desktop berbasis Java Swing yang digunakan untuk
-mencatat, menyimpan, dan melihat mood harian pengguna.
-Aplikasi ini dibuat sebagai latihan dan tugas pemrograman Java dengan menerapkan
-konsep GUI, OOP, CRUD, dan File Handling.
-
----
-
-## Deskripsi Aplikasi
-
-Aplikasi Mood Tracker memungkinkan pengguna untuk:
-- Menginput mood harian beserta catatan
-- Melihat daftar mood yang sudah tersimpan
-- Melihat laporan ringkasan jumlah mood
-- Menyimpan data secara permanen ke dalam file CSV
-
-Data akan tetap tersimpan walaupun aplikasi ditutup.
+Mood Tracker Application adalah aplikasi desktop berbasis Java Swing yang digunakan
+untuk mencatat, menyimpan, dan mengelola data mood harian pengguna.
+Aplikasi ini dibuat untuk memenuhi tugas pemrograman Java dengan implementasi
+materi Modul 1–6.
 
 ---
 
-## Fitur Utama
+## Tujuan Aplikasi
 
-1. Dashboard (menu utama)
-2. Input Mood Harian
-3. Daftar Mood
-4. Laporan Mood
+Aplikasi ini bertujuan untuk:
+- Menerapkan konsep Graphical User Interface (GUI) menggunakan Java Swing
+- Mengimplementasikan operasi CRUD (Create, Read, Update, Delete)
+- Menyimpan data secara permanen menggunakan File Handling (CSV)
+- Menerapkan sorting dan searching pada data
+- Menggunakan Exception Handling untuk menangani error
+
+---
+
+## Fitur Aplikasi
+
+1. Dashboard (menu navigasi utama)
+2. Input Data Mood (tambah dan edit data)
+3. List Data Mood (tabel dengan fitur sorting dan searching)
+4. Laporan / History Mood (ringkasan data)
 5. Penyimpanan data otomatis ke file CSV
-6. Exception handling untuk error file dan input
 
 ---
 
-## Teknologi yang Digunakan
+## Teknologi dan Konsep yang Digunakan
 
 - Bahasa Pemrograman: Java
 - GUI: Java Swing
-- Konsep OOP (Class, Object)
-- ArrayList
+- OOP (Class dan Object)
+- ArrayList sebagai penyimpanan data sementara
+- LocalDate untuk pengelolaan tanggal
+- Comparator dan TableRowSorter untuk sorting data
 - File Handling (CSV)
-- Exception Handling
-- IntelliJ IDEA sebagai IDE
-
----
-
-## Struktur Project
+- Exception Handling (try-catch)
 
