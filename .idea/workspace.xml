@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68b711ab-e4d9-4335-b743-e4b65bc842d9" name="Changes" comment="Readme.md">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/moods.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/moods.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MoodListFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MoodListFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReportFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReportFrame.java" afterDir="false" />
-    </list>
+    <list default="true" id="68b711ab-e4d9-4335-b743-e4b65bc842d9" name="Changes" comment="Uap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,16 +135,87 @@
       <option name="project" value="LOCAL" />
       <updated>1766678752517</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Class DashboardFrame.java">
+      <option name="closed" value="true" />
+      <created>1766722939933</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766722939933</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Class Main.java">
+      <option name="closed" value="true" />
+      <created>1766722968685</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766722968685</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Class MoodFormFrame.java">
+      <option name="closed" value="true" />
+      <created>1766722994182</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766722994182</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Class MoodListFrame.java">
+      <option name="closed" value="true" />
+      <created>1766723027656</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1766723027656</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Class MoodManager.java">
+      <option name="closed" value="true" />
+      <created>1766723054430</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1766723054430</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Class moods.csv">
+      <option name="closed" value="true" />
+      <created>1766723075902</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1766723075902</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Class ReportFrame.java">
+      <option name="closed" value="true" />
+      <created>1766723094830</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1766723094830</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Uap">
+      <option name="closed" value="true" />
+      <created>1766723107844</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1766723107844</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Uap" />
     <MESSAGE value="Class Main" />
     <MESSAGE value="Class Mood" />
     <MESSAGE value="Class MoodManager" />
     <MESSAGE value="Class DashboardFrame" />
     <MESSAGE value="Readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme.md" />
+    <MESSAGE value="Class DashboardFrame.java" />
+    <MESSAGE value="Class Main.java" />
+    <MESSAGE value="Class MoodFormFrame.java" />
+    <MESSAGE value="Class MoodListFrame.java" />
+    <MESSAGE value="Class MoodManager.java" />
+    <MESSAGE value="Class moods.csv" />
+    <MESSAGE value="Class ReportFrame.java" />
+    <MESSAGE value="Uap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uap" />
   </component>
 </project>
